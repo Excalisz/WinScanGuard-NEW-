@@ -1,7 +1,7 @@
 # WinScanGuard-NEW-
 WE ARE BACK!!! READ READEME!
 
-# Version 2.1 just came out! Read logs in our discord server!  https://discord.gg/39Nxb7fH
+# Version 2.1 just came out! Read logs in our discord server!  https://discord.gg/39Nxb7f
 
 After a year-long hiatus, we're thrilled to announce the return of WinScanGuard! 🎉
 
