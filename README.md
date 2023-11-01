@@ -5,7 +5,8 @@ WE ARE BACK!!! READ READEME!
 
 After a year-long hiatus, we're thrilled to announce the return of WinScanGuard! 🎉
 
-![image](https://github.com/Linkerzzz/WinScanGuard-NEW-/assets/149453829/2d464e15-7635-42a2-98e1-e93df1fb1fe3)
+![image](https://github.com/Linkerzzz/WinScanGuard-NEW-/assets/149453829/f1542f20-5407-4270-8699-5ab5633e3091)
+
 
 
 ## What's New in Version 2.1?
